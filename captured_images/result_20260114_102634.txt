@@ -1,0 +1,5 @@
+Plate: 234TU5675
+Authorized: False
+
+Raw OCR results:
+1. 234TU5675 (0.79)

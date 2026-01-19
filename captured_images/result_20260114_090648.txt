@@ -1,0 +1,5 @@
+Plate: 5
+Authorized: False
+
+Raw OCR results:
+1. 5 (0.04)

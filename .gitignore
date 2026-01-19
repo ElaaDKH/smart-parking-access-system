@@ -1,0 +1,30 @@
+# Build files
+Build/
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+
+# IDE files
+.settings/
+*.launch
+.cproject
+.project
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+
+# Credentials (IMPORTANT!)
+*credentials*.json
+*config*.py
+.env
+
+# OS files
+.DS_Store
+Thumbs.db

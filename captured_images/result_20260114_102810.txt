@@ -1,0 +1,5 @@
+Plate: 1234TU567
+Authorized: False
+
+Raw OCR results:
+1. 1234TU567 (0.73)

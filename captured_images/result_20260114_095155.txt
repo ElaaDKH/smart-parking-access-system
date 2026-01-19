@@ -1,0 +1,9 @@
+Plate: 803ATRAINHALUNSROCONTRLEUNSSATEL
+Authorized: False
+
+Raw OCR results:
+1. 803 (0.08)
+2. At (0.06)
+3. rainhaluns (0.03)
+4. rocontrleuns (0.48)
+5. Satel (0.28)

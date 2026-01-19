@@ -1,0 +1,4 @@
+Plate: 
+Authorized: False
+
+Raw OCR results:

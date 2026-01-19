@@ -1,0 +1,5 @@
+Plate: 1234TU5675
+Authorized: True
+
+Raw OCR results:
+1. 1234TU5675 (0.99)
